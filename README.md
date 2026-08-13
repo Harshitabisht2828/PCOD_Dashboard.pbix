@@ -7,7 +7,7 @@ The **PCOD Health & Lifestyle Dashboard** is an interactive Power BI dashboard d
 The goal of this project is to transform raw health and lifestyle data into meaningful visual insights that can help identify common patterns and trends.
 ## 📊 Dashboard Preview
 
-![PCOD Dashboard](pcod dashboard.png)
+![PCOD Dashboard](pcodashboard.png)
 
 
 ## 🎯 Objectives
