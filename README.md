@@ -2,7 +2,7 @@ An interactive Power BI dashboard created to analyze PCOD (Polycystic Ovarian Di
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](pcod_dashboard.png)
 
 ## 🎯 Project Objective
 
