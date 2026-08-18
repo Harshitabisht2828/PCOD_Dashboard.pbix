@@ -82,13 +82,9 @@ Through this project, I practiced:
 * Identifying patterns from datasets
 * Presenting data-driven insights
 
-## ⚠️ Disclaimer
-
-This dashboard is created for **data analysis and educational purposes only**. The insights shown should not be considered medical advice or used for medical diagnosis.
-
 ## 👩‍💻 Author
 
 **Harshita Bisht**
 
 Final-Year Computer Science & Engineering Student
-Interested in **Data Analytics, Power BI, SQL, Python and Business Intelligence**.
+Interested in **Data Analytics, Power BI, PostgreSQL, Python and Business Intelligence**.
